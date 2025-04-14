@@ -1,0 +1,12 @@
+{
+  "name": "playwright-issue",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "playwright": "1.51.1",
+    "puppeteer": "24.6.1"
+  }
+}
